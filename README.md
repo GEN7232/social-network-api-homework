@@ -18,11 +18,9 @@
 
   
   # Description
-  A social media API in which users can be created, updated, viewed, deleted. Users can add and delte friends. Users can also add thoughts, update thoughts, delete thoughts, add reactions, and delete reactions.
+  A social media API in which users can be created, updated, viewed, deleted. Users can add and delete friends. Users can also add thoughts, update thoughts, delete thoughts, add reactions, and delete reactions.
   # Installation
   MIT
-  # Usage
-  To communicate with friends.
   # License
   THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   # Report
