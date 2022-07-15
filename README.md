@@ -18,7 +18,7 @@
 
   
   # Description
-  A social media API in which users can be created, updated, viewed, deleted. Users can add and delete friends. Users can also add thoughts, update thoughts, delete thoughts, add reactions, and delete reactions.
+  A social media API in which users can be created, updated, viewed, deleted. Users can add and delete friends. Users can also add thoughts, update thoughts, delete thoughts, add reactions, and delete reactions. When a user is deleted, as are all of their thoughts.
   # Installation
   MIT
   # License
